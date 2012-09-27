@@ -21,7 +21,8 @@ requires:
   Class::Accessor: 0
   Test::Base: 0
   Test::More: 0
+  YAML: 0
   version: 0
 resources:
   repository: https://github.com/neilbowers/HTTP-DetectUserAgent
-version: 0.03
+version: 0.04
